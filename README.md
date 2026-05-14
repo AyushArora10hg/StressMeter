@@ -78,7 +78,7 @@ StressMeter/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AyushArora10hg/StressMeter
+   git clone https://github.com/AyushArora10hg/StressMeter.git
    ```
 
 2. Open the project in Android Studio
