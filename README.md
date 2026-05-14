@@ -2,7 +2,7 @@
 
 A mobile Android application for tracking and visualizing daily stress levels through an intuitive image-based interface.
 
-📥 Download APK: [*StressMeter.apk*](https://1drv.ms/u/c/931d74c7905f6350/IQDp3FYZruWEQ5Waz5sZm097AewZzfodI0sS90fvpqBPwbc?e=Ukpn0I)
+📥 Download APK: [*StressMeter.apk*](https://drive.google.com/file/d/1fS8t7M6G3Uvw-3-LLUAcYCx7qCh_K-x4/view?usp=sharing)
 
 ## Overview
 
@@ -78,7 +78,7 @@ StressMeter/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AyushArora10hg/StressMeter---CMPT362.git
+   git clone https://github.com/AyushArora10hg/StressMeter
    ```
 
 2. Open the project in Android Studio
